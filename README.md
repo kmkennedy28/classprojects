@@ -4,7 +4,7 @@
 - Proj 1: Cpp Fundamentals
 - Lab 2: Arrays & bubble sort
 
-
+# Lab 1
 ## Nim Game Simulation
 
 ## Description
@@ -15,10 +15,21 @@ Simulates a game between a randomized computer and the user removing objects unt
 - Loops
 - Functions
 
-# How to Run
-1. Compile the code:
-
-
 # What I Learned
 - Randomizing numbers
 - Using functions
+
+# Lab 2
+## Test Scores Sort & Average
+
+## Description
+Input the number of test score, individually input them then it prints them sorted, without the lowest score, and the average.
+
+# Topics Covered
+- Bubble sort
+- Dynamic Arrays
+
+# What I Learned
+- swaping variable values
+- bubble sort & the differences in sorting algorithms
+- using a dynamic array for an adjustable array size
