@@ -3,6 +3,7 @@
 - Lab 1: Cpp Fundamentals
 - Proj 1: Cpp Fundamentals
 - Lab 2: Arrays & bubble sort
+- Proj 3: CStrings + Header files
 
 ## Lab 1
 ### Nim Game Simulation
@@ -48,3 +49,18 @@ Over a 12 day period with the stock prices, the most profitable buy and sell day
 - finding a max value
 - parameter passed by reference
 - constant variable
+
+## Proj 3
+### Improve Format and Find phrases within Strings
+
+### Description
+Functions to improve the format of a string by removing redundant whitespace and finding a specefic word or phrase within a string and the number of times
+
+### Topics Covered
+- Functions
+- header files
+- CStrings
+  
+### What I Learned
+- Traversing and editing a CString
+- How to include a .h file
