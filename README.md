@@ -4,6 +4,10 @@
 - Proj 1: Cpp Fundamentals
 - Lab 2: Arrays & bubble sort
 - Proj 3: CStrings + Header files
+- Lab 4: Building classes
+    circle.cpp, circle.h, point.cpp, & point.h
+- Proj 4: Classes
+    Complex.cpp, Complex.h
 
 ## Lab 1
 ### Nim Game Simulation
@@ -64,3 +68,33 @@ Functions to improve the format of a string by removing redundant whitespace and
 ### What I Learned
 - Traversing and editing a CString
 - How to include a .h file
+
+## Lab 4
+### Create Circle & Point objects and manipulate them
+
+### Description
+Classes for point and circle objects and functions within then tests them
+
+### Topics Covered
+- Classes
+- Member functions
+    
+### What I Learned
+- Using an object as a trait for another
+- Creating testing programs
+- Writing multiple constructors
+
+## Lab 4
+### Building a class for Complex Number ADT
+
+### Description
+A complex number class with an imaginary and real part and member functions to preform operations with them
+
+### Topics Covered
+- Classes
+- Member functions
+    
+### What I Learned
+- Using math.h
+- Using variables from the parameter and current object
+- Avoiding divide by zero error
